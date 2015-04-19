@@ -19,7 +19,8 @@ cambiar la dirección **alumnocoderic**.github.io por la correspondiente a su no
 
 ## Paso 4: Editar la configuración de la dirección
 
-Darle click al archivo llamado CNAME luego editarlo haciendo click en el lapiz que aparece a la derecha y luego cambiar la dirección que dice **neftaliyagua**.alumno.coderic.co.ve por la correspondiente a su nombre y apellido ejemplo: si su nombre es Alan Brito colocar **alanbrito**.alumno.coderic.co.ve
+Darle click al archivo llamado CNAME luego editarlo haciendo click en el lapiz que aparece a la derecha y luego cambiar la dirección que dice **AlanBrito**.alumno.coderic.co.ve por la correspondiente a su nombre y apellido ejemplo: si su nombre es Alan Brito debe decir **alanbrito**.alumno.coderic.co.ve pero como ese no es su nombre deberá colocarle el suyo.
+
 Luego abrir otra ventana de internet y entrar en la dirección que hayan asignado. El resultado debe quedar semejante a este: http://neftaliyagua.alumno.coderic.co.ve/
 
 ## Paso 5: Editar la página principal llamada index.md
