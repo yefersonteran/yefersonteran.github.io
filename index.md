@@ -6,6 +6,7 @@ title: Página de proyectos del alumno Alan Brito
 
 # Página de proyectos del alumno Alan Brito
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
+
 ## ¿Quién soy? 
 Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, nunca me copio porque se que tengo la capacidad de hacer lo mejor.
 
@@ -17,10 +18,15 @@ Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los deba
 * La buena música
 
 # Esto es un H1
+
 ## Esto es un H2
+
 ### Esto es un H3
+
 #### Esto es un H4
+
 ##### Esto es un H5
+
 ###### Esto es un H6
 
 * [Francisco Matute en Facebook](https://www.facebook.com/UEE.Francisco.Matute)
