@@ -97,11 +97,8 @@ Segundo termino
  : Segunda definición
 
  ![Foto del Liceo](http://graph.facebook.com/UEE.Francisco.Matute/picture?type=large "titulo") 
- 
- Cabecera A | Cabecera B
--- | --
-Campo A0 | Campo B0
-Campo A1 | Campo B1
+
+
 
 | Elemento | Cantidad | Precio |
 | :------- | :------: | -----: |
