@@ -4,7 +4,7 @@ title: jeferson teran
 ---
 
 
-# Página de proyectos del alumno Alan Brito
+# Página de proyectos del alumno jeferson teran
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
