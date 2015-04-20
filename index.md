@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página de proyectos del alumno Alan Brito
+title: jeferson teran
 ---
 
 
